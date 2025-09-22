@@ -32,4 +32,10 @@ body {
   height: 60px;
   background: url("https://www.pngall.com/wp-content/uploads/14/Loading-PNG-Image-File.png") no-repeat center/contain;
   animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
 }/*# sourceMappingURL=style.css.map */
