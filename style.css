@@ -7,4 +7,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.boite {
+  width: 50px 50px;
+  background-color: coral;
 }/*# sourceMappingURL=style.css.map */
